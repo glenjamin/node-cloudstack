@@ -21,7 +21,6 @@
       "cloud"
     ],
     "dependencies": {
-      "crypto": "0.0.3",
       "request": "2.9.203"
     },
     "license": "MIT",
